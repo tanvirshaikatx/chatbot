@@ -1,4 +1,4 @@
-# # groq api=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
+
 # import streamlit as st
 # import os
 # from langchain_groq import ChatGroq
